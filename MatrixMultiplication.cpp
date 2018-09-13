@@ -1,10 +1,10 @@
 #include "Stdafx.h"
-
 #include "MatrixLib.h"
-using namespace MatrixLib;
-using namespace std;
 #include <vector>
 #include <iostream>
+
+using namespace MatrixLib;
+using namespace std;
 
 vector<vector<double>> Class1::Multiply(vector<vector<double>> A, vector<vector<double>> B)
 {
