@@ -2,7 +2,7 @@
 
 #include <vector>
 #include <iostream>
-#include <stdio.h>
+#include <cstdio>
 #include <math.h>
 #include "MatrixLib.h"
 

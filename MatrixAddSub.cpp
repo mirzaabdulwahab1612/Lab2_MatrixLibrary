@@ -1,6 +1,6 @@
 #include "stdafx.h"
 #include "MatrixLib.h"
-#include <stdio.h>
+#include <cstdio>
 #include <vector>
 #include <iostream>
 
