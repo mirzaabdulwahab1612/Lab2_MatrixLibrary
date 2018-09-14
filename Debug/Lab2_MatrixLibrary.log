@@ -1,0 +1,7 @@
+﻿  MatrixLib.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+d:\nust\5th semester\advanced programming\labs\lab2_matrixlibrary\lab2_matrixlibrary\matrixlib.cpp(8): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\nust\5th semester\advanced programming\labs\lab2_matrixlibrary\lab2_matrixlibrary\matrixlib.cpp(86): warning C4018: '<': signed/unsigned mismatch
+d:\nust\5th semester\advanced programming\labs\lab2_matrixlibrary\lab2_matrixlibrary\matrixlib.cpp(87): warning C4018: '<': signed/unsigned mismatch
+  Lab2_MatrixLibrary.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Lab2_MatrixLibrary.vcxproj -> D:\NUST\5th Semester\Advanced Programming\Labs\Lab2_MatrixLibrary\Debug\Lab2_MatrixLibrary.exe
